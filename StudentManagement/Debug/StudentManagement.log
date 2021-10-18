@@ -1,0 +1,4 @@
+﻿  StudentManagement.cpp
+C:\Users\kewlv\OneDrive\Desktop\Coding\C++\StudentManagement\StudentManagement\StudentManagement.cpp(57,12): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\kewlv\OneDrive\Desktop\Coding\C++\StudentManagement\StudentManagement\StudentManagement.cpp(125,11): warning C4129: 'F': unrecognized character escape sequence
+  StudentManagement.vcxproj -> C:\Users\kewlv\OneDrive\Desktop\Coding\C++\StudentManagement\Debug\StudentManagement.exe
